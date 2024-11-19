@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sshreyashh
-- 👀 I’m a final year Undergraduate student from Elecrtronics & Telecommunication branch looking for a tech job.
-- 🌱 I’m currently learning software development.
+- 👀 I’m an Undergraduate from Elecrtronics & Telecommunication.
+- 🌱 I’ve currently worked on application development using Springboot.
 - 💞️ I’m looking to collaborate on Blockchain Development.
 - 📫 How to reach me - Linkedin- @sshreyashh
 
