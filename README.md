@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sshreyashh
 - 👀 I’m an Undergraduate from Elecrtronics & Telecommunication.
 - 🌱 I’ve currently worked on application development using Springboot.
-- 💞️ I’m looking to collaborate on Blockchain Development.
+- 💞️ I’m looking to learn and collaborate in the field of WEB3 and Blockchain Development.
 - 📫 How to reach me - Linkedin- @sshreyashh
 
 <!---
